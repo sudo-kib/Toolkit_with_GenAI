@@ -1,15 +1,15 @@
-### User input Dart - Capstone Project Toolkit
+# User input Dart - Capstone Project Toolkit
 
 Welcome to the Dart user-input Toolkit. This guide helps beginners learn Dart programming language with the support of Generative AI tools. The project will take user name and age and print out the answer
 
-### Quick Summary of the Technology
+## Quick Summary of the Technology
 This is a simple, beginner-friendly "User Input" application built with Dart. The goal is to learn a new programming language by leveraging AI to:
 
 * Understand syntax and structure
 * Set up a working Dart environment
 * Compile and run basic Dart code
 * Document the entire process for others to follow
-### Why Dart?
+## Why Dart?
 Dart is a programming language developed by Google, mainly used for building mobile, web, and desktop apps with Flutter, but it can also run as a standalone console language.
 
 ### Where is it used?
@@ -28,7 +28,7 @@ OS: Windows / Linux / macOS
 * Dart SDK Code Editor (VS Code recommended) 
 * Terminal / Command Prompt
 * Internet connection for installation
-### Installation & Setup Instructions (Windows)
+## Installation & Setup Instructions (Windows)
 ### Step 1: Download Dart SDK
 * Open your browser and go to: https://dart.dev/get-dart.
 
@@ -69,7 +69,7 @@ Expected output:
     mkdir dart_toolkit 
     cd dart_toolkit
 
-# Step 4: Create Dart File
+### Step 4: Create Dart File
      New-Item main.dart
 
 ## Minimal Working Example
@@ -96,12 +96,12 @@ Code: main.dart
     20
     Hello John, you are 20 years old.
 
-# Explanation:
+## Explanation:
 * "stdin.readLineSync()" reads user input.
 * "int.parse()" converts text into a number.
 * "$name" and "$age" insert values into the output string.
 
-# AI Prompt Journal
+## AI Prompt Journal
 -Link to the curriculum for the prompt:https://ai.moringaschool.com/ai-software/ai-use-cases/usecases-documentation/
 
 **Prompt 1**
@@ -145,15 +145,15 @@ Improved my understanding and confidence.
 |   | FormatException	     | User enters text instead of number | Enter numeric age only         |
 |   | Dart not recognized	 | SDK not installed	                 | Reinstall Dart and add to PATH |
 
-### References
+## References
 
-* [Dart Official Docs] (https://dart.dev)
+* [Dart Official Docs](https://dart.dev)
 
-* [Dart Tutorials] (https://dart.dev/tutorials)
+* [Dart Tutorials](https://dart.dev/tutorials)
 
-* [Flutter (Dart framework)] (https://flutter.dev)
+* [Flutter (Dart framework)](https://flutter.dev)
 
-* [VS Code Dart Extension] (https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+* [VS Code Dart Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
 ### Reflection on GenAI Use
 
