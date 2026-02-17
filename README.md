@@ -133,11 +133,11 @@ Improved my understanding and confidence.
 
 # Common Issues & Fixes
 
-| Issue	              | Cause                              | Fix                            |
-|:--------------------|:-----------------------------------|:-------------------------------|
-| stdin not found     | Missing import                     | Add import 'dart:io';          |
-| FormatException	    | User enters text instead of number | Enter numeric age only         |
-| Dart not recognized	| SDK not installed	                 | Reinstall Dart and add to PATH |
+|   | Issue	              | Cause                              | Fix                            |
+|:--|:--------------------|:-----------------------------------|:-------------------------------|
+|   | stdin not found     | Missing import                     | Add import 'dart:io';          |
+|   | FormatException	    | User enters text instead of number | Enter numeric age only         |
+|   | Dart not recognized	| SDK not installed	                 | Reinstall Dart and add to PATH |
 
 # References
 
